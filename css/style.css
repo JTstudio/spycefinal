@@ -1,0 +1,92 @@
+
+body{
+    background-color: #f0c9a0;
+    margin: 0;
+    padding: 0;
+}
+
+.page-header{
+    background-color: #f0c9a0;
+    
+    line-height: 2em;
+}
+    
+ ul.navigation {
+     float:right;
+     padding-right: 20px;
+    line-height: 2em;
+        }
+
+        a:link, a:visited,  a:hover, a:active
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+    ul.navigation li{
+        list-style: none;
+        display: inline-block;
+        margin: 0 10px;
+      color: black;
+          }
+
+  .hero{
+    background-color: #f0c9a0;
+    background-image: url('../img/twowomen2.png');
+    background-repeat: no-repeat;
+    background-size:cover; 
+
+    height: 500px;
+
+    image-resolution: 1080px;
+  
+  }
+.logo{
+    background-image: "img/peppa.png" width="100" height="100";
+    display: inline;
+}
+
+    .sub-content{
+        font-family:'Antic', arial;
+        color: #781A27;
+        padding: 10px 20% 10%;
+        text-align: center;
+        
+      }
+      .sub-content p1{
+        font-family:'Antic', arial;
+        padding: 10px;
+        color:#781A27;
+        text-align: center;
+      }
+
+      .sub-content h1{
+        font-family:'Antic', arial;
+       
+        color:#781A27;
+        text-align: center;
+      }
+
+      .sub-content .appDownload{
+        color: black;
+        font-weight:700;
+        background-color: white;
+        border-radius: 5px;
+        margin: 20;
+       bottom: 350;
+   
+        object-position: center;
+       }
+
+    
+    
+    ul.footer nav li{
+        
+            list-style: none;
+            display: inline;
+            margin: 0 10px;
+          color: black;
+              
+          }
+
+        
